@@ -11,6 +11,7 @@ maintainers:
 
 dependencies:
 - name: redis
-  version: "~10.6.10"
+  version: "~16.13.2"
   repository: "https://charts.bitnami.com/bitnami"
   condition: redis.enabled
+
